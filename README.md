@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joylock
-- 😄 Pronouns: he/him
-- 🌱 I’m currently learning DSA with C++ and AI/ML with Python at MNNIT Allahabad, Prayagraj
+- 🌱 I’m currently learning DSA w/ C++
 - https://www.linkedin.com/in/kunal-gulrajani-536196249/
 
 <!---    
