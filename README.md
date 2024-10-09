@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joylock
-- 🌱 I’m currently learning DSA w/ C++
-- https://www.linkedin.com/in/kunal-gulrajani-536196249/
+- https://www.linkedin.com/in/kunal-gulrajani
 
 <!---    
 joylock/joylock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
