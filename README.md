@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joylock
-- https://www.linkedin.com/in/joylock
+- 👋 Hi, I’m @kuna1
+- https://www.linkedin.com/in/kunal-gulrajani
 
 <!---    
 joylock/joylock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
