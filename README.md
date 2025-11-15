@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kuna1
+- 👋 Hi, I’m @joylock
 - https://www.linkedin.com/in/kunal-gulrajani
 
 <!---    
